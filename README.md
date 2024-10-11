@@ -1,2 +1,2 @@
 # Controle-de-fluxo-simples-utilizando-JAVA
-Controle de fluxo simples utilizando a linguagem de programação JAVA e seus recursos.
+Controle de fluxo simples utilizando os recursos da linguagem de programação JAVA.
